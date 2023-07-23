@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.food-munch-logo {
+  width: 65px;
+  height: 60px;
+  
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem6 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem7 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+.main-image-bag {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 90vh;
+    width: 100vw;
+    background-size: cover;
+  }
+  .main-bg-headding{
+    color: white;
+    font-family:oboto;
+  }
+.page-headding{
+    font-family:sans-serif;
+    font-size: 30px;
+    padding-top: 5px;
+    font-weight: bold;
+    color: #193752;
+    padding-bottom: 5px;
+}
+.wcu-card{
+
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(102, 221, 102);
+  border-width: 2px;
+  border-radius: 10px;
+  background-color:rgb(245, 243, 241);
+  padding: 5px;
+
+}
+.card-image{
+  height: 90px;
+  width: 85px;
+
+
+}
+.card-headding{
+  font-size: 30px;
+}
+.card-para{
+  font-size: 15px;
+}
+.span-section{
+  columns: black;
+  font-weight: bold;
+}
+.Explore-menu-card{
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 15px;
+  background-color:rgb(248, 246, 243);
+}
+.Explore-image{
+  height: 25vh;
+  border-radius: 20px;
+}
+.Explore-para{
+  color: #3e4969;
+  font-family: Cambria;
+  font-size: 17px;
+  font-weight:bold;
+}
+.Explore-anchore{
+  color: rgb(18, 199, 18);
+  font-weight: bold;
+}
+.page-para{
+  font-size: 17px;
+  color: rgb(89, 75, 82);
+}
+.button-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 14px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  border-radius: 6px;
+  border: none;
+
+  color: #fff;
+  background: linear-gradient(180deg, #f7dd4b 0%, #deba1a 100%);
+   background-origin: border-box;
+  box-shadow: 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-10:focus {
+  box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+}
+.offer-section{
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 15px;
+  background-color:rgb(248, 246, 243);
+}
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+.thanking-customers-section {
+  background-color: #d0b2001a;
+}
+.thanking-customers-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.custom-button {
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.abcd{
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 15px;
+  background-color:rgb(248, 246, 243);
+}
