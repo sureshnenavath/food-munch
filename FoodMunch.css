@@ -35,8 +35,8 @@
   }
 .main-image-bag {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
-    height: 100%;
-    width: 100%;
+    height: 100vh;
+    width: 100vw;
     background-size: cover;
   }
   .main-bg-headding{
@@ -85,8 +85,9 @@
   background-color:rgb(248, 246, 243);
 }
 .Explore-image{
-  height: 25vh;
-  border-radius: 20px;
+
+  width: 100%;
+  border-radius: 15px;
 }
 .Explore-para{
   color: #3e4969;
